@@ -1,5 +1,7 @@
 # EX 1A Reverse a String
-## DATE: 18/02/25
+# Developed by: LOKESH N
+
+# Register Number: 212222100023
 ## AIM:
 To write a program to create a recursive function to reverse a string.
 
@@ -21,9 +23,7 @@ To write a program to create a recursive function to reverse a string.
 
 Program to implement Reverse a String
 
-Developed by: LOKESH N
 
-Register Number: 212222100023
 ```
 def reverse_string(s):
    
