@@ -1,7 +1,7 @@
 # EX 1A Reverse a String
-# Developed by: LOKESH N
+# Developed by: Marella Dharanesh
 
-# Register Number: 212222100023
+# Register Number: 212222240062
 ## AIM:
 To write a program to create a recursive function to reverse a string.
 
