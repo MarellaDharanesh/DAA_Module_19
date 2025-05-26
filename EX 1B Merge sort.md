@@ -1,7 +1,7 @@
 # EX 1B Merge Sort
-# Developed by: Lokesh N
+# Developed by: Marella Dharanesh
 
-# Register Number: 212222100023
+# Register Number: 212222240062
 ## AIM:
 To write a python program to sort the first half of the list using merge sort.
 
