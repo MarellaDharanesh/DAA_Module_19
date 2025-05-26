@@ -1,7 +1,7 @@
 # EX 1C Quick Sort
-# Developed by: Lokesh N
+# Developed by: Marella Dharanesh
 
-# Register Number: 212222100023 
+# Register Number: 212222240062
 ## AIM:
 To write a python program to implement quick sort using tha last element as pivot on the list of string values.
 
