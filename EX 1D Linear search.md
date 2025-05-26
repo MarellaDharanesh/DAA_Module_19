@@ -1,7 +1,7 @@
 # EX 1D Linear search
-# Developed by: Lokesh N
+# Developed by: Marella Dharanesh
 
-# Register Number: 212222100023
+# Register Number: 212222240062
 ## AIM:
 To write a python program for a search function with parameter list name and the value to be searched.
 
